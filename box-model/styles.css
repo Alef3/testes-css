@@ -1,0 +1,14 @@
+.box-model {
+  width: 200px;
+  height: 150px;
+  margin: 15px;
+  border: 6px solid #f18c8c;
+  padding: 8px;
+  background-color: azure;
+}
+
+h2 {
+  text-align: center;
+  color: coral;
+  background-color: aliceblue;
+}
